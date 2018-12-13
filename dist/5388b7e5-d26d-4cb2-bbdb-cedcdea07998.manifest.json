@@ -1,0 +1,64 @@
+{
+  "id": "5388b7e5-d26d-4cb2-bbdb-cedcdea07998",
+  "alias": "ThemeWizWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": {
+        "default": "Other"
+      },
+      "title": {
+        "default": "ThemeWiz"
+      },
+      "description": {
+        "default": "Edit theme with live results as you go."
+      },
+      "officeFabricIconFontName": "AutoEnhanceOn",
+      "properties": {
+        "description": "ThemeWiz"
+      }
+    }
+  ],
+  "loaderConfig": {
+    "entryModuleId": "theme-whiz-web-part",
+    "internalModuleBaseUrls": [
+      "https://localhost:4321/"
+    ],
+    "scriptResources": {
+      "theme-whiz-web-part": {
+        "type": "path",
+        "path": "dist/theme-whiz-web-part.js"
+      },
+      "ThemeWizWebPartStrings": {
+        "defaultPath": "lib/webparts/themeWiz/loc/en-us.js",
+        "type": "localizedPath"
+      },
+      "react": {
+        "type": "component",
+        "version": "16.3.2",
+        "id": "0d910c1c-13b9-4e1c-9aa4-b008c5e42d7d",
+        "failoverPath": "node_modules/react/dist/react.js"
+      },
+      "react-dom": {
+        "type": "component",
+        "version": "16.3.2",
+        "id": "aa0a46ec-1505-43cd-a44a-93f3a5aa460a",
+        "failoverPath": "node_modules/react-dom/dist/react-dom.js"
+      },
+      "@microsoft/sp-core-library": {
+        "type": "component",
+        "version": "1.7.0",
+        "id": "7263c7d0-1d6a-45ec-8d85-d4d1d234171b"
+      },
+      "@microsoft/sp-webpart-base": {
+        "type": "component",
+        "version": "1.7.0",
+        "id": "974a7777-0990-4136-8fa6-95d80114c2e0"
+      }
+    }
+  }
+}
