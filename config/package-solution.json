@@ -9,6 +9,6 @@
     "isDomainIsolated": false
   },
   "paths": {
-    "zippedPackage": "solution/themewiz.sppkg"
+    "zippedPackage": "../files/themewiz.sppkg"
   }
 }

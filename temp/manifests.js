@@ -900,7 +900,8 @@ function getManifests() {
         },
         "ThemeWizWebPartStrings": {
           "defaultPath": "lib/webparts/themeWiz/loc/en-us.js",
-          "type": "localizedPath"
+          "type": "localizedPath",
+          "paths": {}
         },
         "react": {
           "type": "component",
