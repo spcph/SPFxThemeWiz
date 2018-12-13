@@ -15,7 +15,7 @@ On the projects I have been working on somewhere between 10 or 15 iterations has
 
 ## The Solution
 
-[[https://github.com/spcph/SPFxThemeWiz/raw/master/files/ThemeWiz.png|alt=octocat]]
+![SPFx Theme Wizard](https://github.com/spcph/SPFxThemeWiz/raw/master/files/ThemeWiz.png "SPFx Theme Wizard")
 
 When ever you use "Change the look" in Modern SharePoint, the theme you choose is instantly applied to the page, so I was pretty confident that there had to be a way to do something similar. I looked around for a long time, poking around window.__themeState__.theme but nothing would actually let med apply the theme.
 
