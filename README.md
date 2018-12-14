@@ -6,7 +6,7 @@ Create a SharePoint Modern Theme in minutes
 
 ## The Idea
 
-If you ever worked with SharePoint Modern Themes, you know that finding the right combination of colors can be a tidious task.
+If you ever worked with SharePoint Modern Themes, you know that finding the right combination of colors can be a tedious task.
 First you need to know which themeColors are used on which elements on the page. Then you need to find you hex color codes before finally building your PowerShell theme array, and deploying it to SharePoint. 
 
 If one of the colors are off, the entire process more or less has to be repeated. 
