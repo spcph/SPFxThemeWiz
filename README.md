@@ -2,8 +2,7 @@
 
 Create a SharePoint Modern Theme in minutes
 
-[Download latest version sppkg package](https://github.com/spcph/SPFxThemeWiz/raw/master/files/themewiz.sppkg)
-
+Download the latest release under Releases.
 ## The Idea
 
 If you ever worked with SharePoint Modern Themes, you know that finding the right combination of colors can be a tedious task.
