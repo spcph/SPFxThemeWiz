@@ -17,15 +17,15 @@ On the projects I have been working on somewhere between 10 or 15 iterations has
 
 ![SPFx Theme Wizard](https://github.com/spcph/SPFxThemeWiz/raw/master/files/ThemeWiz.png "SPFx Theme Wizard")
 
-When ever you use "Change the look" in Modern SharePoint, the theme you choose is instantly applied to the page, so I was pretty confident that there had to be a way to do something similar. I looked around for a long time, poking around window.__themeState__.theme but nothing would actually let med apply the theme.
+When ever you use "Change the look" in Modern SharePoint, the theme you choose is instantly applied to the page, so I was pretty confident that there had to be a way to do something similar. I looked around for a long time, poking around window.__themeState__.theme but nothing would actually let me apply the theme.
 
 Until one day I was reading through the Office UI Fabric docs and found the loadTheme function. 
 
 My colleague Fredrik used a couple of hours doing a POC, and I used roughly the same to add some spiffy color pickers and a PowerShell download function. 
 
-Badabing badaboom and this little tool easily saves me an hour or 2 whenever i have to come up with a theme.
+Badabing badaboom and this little tool easily saves me an hour or 2 whenever I have to come up with a theme.
 
-I hope it does the same to you.
+I hope it does the same for you.
 
 ## Development
 
