@@ -3,7 +3,7 @@
   "solution": {
     "name": "ThemeWiz",
     "id": "38b3e7c3-e61f-4a95-bc3c-c326f57f1115",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false
